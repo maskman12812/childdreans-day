@@ -1,0 +1,15 @@
+body{
+    background-image:url("Image_ISR\ Monterrey_2022_207_ISR_OurCampusVA_level2header_1317x741_2.jpg");
+    background-size: cover;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 29px;
+}
+input{
+    width: 30%;
+    height: 20px;
+    font-size: 17px;
+}
